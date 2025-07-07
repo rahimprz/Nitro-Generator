@@ -1,13 +1,9 @@
-<p align="center">
-  <img src="https://img.shields.io/github/issues/Bennitenni111/Nitro-Generator?style=flat" />
-  <img src="https://img.shields.io/github/stars/Bennitenni111/Nitro-Generator?style=flat" />
-</p>
 
 
 # Nitro-Generator
 This is used to generate discord.gift
 
-**Discord For Support**: https://anonix.xyz/discord
+`Project is discontinued`
     
     
 Please, don't write in general and support chat for this only, DM us if you want help.
